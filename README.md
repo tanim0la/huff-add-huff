@@ -22,7 +22,7 @@ The following will need to be installed in order to use this template. Please fo
 
 ### Quickstart
 
-1. Clone this repo or use template
+1. Clone this repo or use template.
 
 Click "Use this template" on [GitHub](https://github.com/huff-language/huff-project-template) to create a new repository with this repo as the initial state.
 
