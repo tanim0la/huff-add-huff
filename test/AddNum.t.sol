@@ -16,8 +16,8 @@ contract AddNumTest is Test {
 
     /// @dev Ensure that you can add two values and get the answer.
     function testSetAndGetValue() public {
-        addNumm.addNum(3, 2);
-        assertEq(5, addNumm.getAnswer());
+        addNumm.addNum(3, 12);
+        assertEq(15, addNumm.getAnswer());
     }
 }
 
